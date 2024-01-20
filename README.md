@@ -8,6 +8,9 @@
 
     **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/GopiSR/Excel---Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
+    **3.** Create a _[Net Sales Performance Report](https://github.com/GopiSR/Excel---Sales-Analytics/blob/main/Net%20Sales%20Performance.pdf)_
+
+
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -23,7 +26,9 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/GopiSR/Excel---Sales-Analytics/blob/main/P%20%26%20L%20Statement%20for%20Markets.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+   **3.** Gross Margin % reports by _[Quarters](https://github.com/GopiSR/Excel---Sales-Analytics/blob/main/GM%20%25%20By%20Quarter.pdf)_
+
+- **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
