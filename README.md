@@ -26,7 +26,7 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/GopiSR/Excel---Sales-Analytics/blob/main/P%20%26%20L%20Statement%20for%20Markets.pdf)_
 
-   **3.** Gross Margin % (GM %) reports by _[Quarters](https://github.com/GopiSR/Excel---Sales-Analytics/blob/main/GM%20%25%20By%20Quarter.pdf)_
+   **3.** Gross Margin % reports by _[Quarters](https://github.com/GopiSR/Excel---Sales-Analytics/blob/main/GM%20%25%20By%20Quarter.pdf)_
 
 - **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
